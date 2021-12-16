@@ -1,16 +1,10 @@
 # desafio_expansion_tile
 
-A new Flutter project.
+MasterClass Flutterando
 
-## Getting Started
+## Animações Implícitas
 
-This project is a starting point for a Flutter application.
+Desafio de construir um <code>ExpansionTile</code> apenas com <b>Animações Implícitas</b>.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/86212446/146396496-5818ac15-63ea-436b-85d3-0c54cddf7add.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
